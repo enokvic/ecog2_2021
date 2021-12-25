@@ -2,17 +2,15 @@
 title: 'Sript pour l’analyse des données du microbiome : des lectures brutes aux analyses
   communautaires'
 output:
-  pdf_document: default
+  word_document: default
   html_notebook: default
+  pdf_document: default
 ---
 #\textcolor{red}{Mise à jour de la machine virtuelle}
 ```{bash}
 sudo apt-get update -y
 sudo apt-get install -y libglpk-dev 
 sudo apt-get install -y liblzma-dev libbz2-dev
-```
-```{bash}
-Rscript -e "source('http://bioconductor.org/biocLite.R');biocLite('phyloseq')"
 ```
 
 #\textcolor{red}{Installation des différents packages}
@@ -41,12 +39,9 @@ library("BiocStyle")
 # Load packages into session, and print package version
 sapply(c(.cran_packages, .bioc_packages), require, character.only = TRUE)
 ```
+Si la package phyloseq ne s'installe pas il faudra entrer cette ligne de code dans la partie terminal de Rstudio : 
 
-```{r}
-if (!requireNamespace("BiocManager", quietly = TRUE))
-  install.packages("BiocManager")
-BiocManager::install("phyloseq")
-```
+rm -r /usr/local/lib/R/site-library/00LOCK-rhdf5filters 
 
 ```{r}
 .cran_packages <- c( "shiny","miniUI", "caret", "pls", "e1071", "ggplot2", "randomForest", "dplyr", "ggrepel", "nlme", "devtools",
@@ -62,20 +57,14 @@ if (any(!.inst)){
 if (any(!.inst)){
   devtools::install_github(.github_packages[!.inst])
 }
-
-.inst <- .bioc_packages %in% installed.packages()
-if(any(!.inst)){
-  source("http://bioconductor.org/biocLite.R")
-  biocLite(.bioc_packages[!.inst])
-}
 ```
-
+#\textcolor{blue}{Importation des données}
 ```{bash}
 cd ~
 wget https://mothur.s3.us-east-2.amazonaws.com/wiki/miseqsopdata.zip
 unzip miseqsopdata.zip
 ```
-#\textcolor{red}{Lecture brute des données en tableau}
+#\textcolor{blue}{Lecture brute des données en tableau}
 ````{r}
 set.seed(100)
 miseq_path <- "/home/rstudio/MiSeq_SOP"
@@ -119,7 +108,7 @@ head(out)
 ```
 La fonction "filterAndTrim" de DADA2 permet de filtrer les données
 
-#\textcolor{red}{}
+#\textcolor{blue}{Dereplication}
 ```{r}
 derepFs <- derepFastq(filtFs, verbose=TRUE)
 derepRs <- derepFastq(filtRs, verbose=TRUE)
@@ -127,7 +116,7 @@ names(derepFs) <- sampleNames
 names(derepRs) <- sampleNames
 ```
 
-#\textcolor{red}{Les taux d'erreurs}
+#\textcolor{blue}{Les taux d'erreurs}
 ```{r}
 errF <- learnErrors(filtFs, multithread=TRUE)
 ```
@@ -145,7 +134,7 @@ plotErrors(errR)
 ```
 Ces fonctions permettent de visualiser le taux d'erreur estimés avec learnErrors (correspondand à la ligne noire) et le taux d'erreur observé représenté par la ligne rouge. 
 
-#\textcolor{red}{Inférence d'échantillon}
+#\textcolor{blue}{Inférence d'échantillon}
 ```{r}
 dadaFs <- dada(derepFs, err=errF, multithread=TRUE)
 ```
@@ -157,20 +146,20 @@ dadaRs <- dada(derepRs, err=errR, multithread=TRUE)
 ```{r}
 dadaFs[[1]]
 ```
-
-#\textcolor{red}{Alignement des R1 et R2 en contigs}
+#\textcolor{red}{Construire une table de séquence et supprimer des chimères}
+#\textcolor{blue}{Alignement des R1 et R2 en contigs}
 ```{r}
 mergers <- mergePairs(dadaFs, derepFs, dadaRs, derepRs)
 ```
 
-#\textcolor{red}{Construction de la table d'observation}
+#\textcolor{blue}{Construction de la table d'observation}
 ```{r}
 seqtabAll <- makeSequenceTable(mergers[!grepl("Mock", names(mergers))])
 table(nchar(getSequences(seqtabAll)))
 ```
 
 
-#\textcolor{red}{Détection des chimères}
+#\textcolor{blue}{Détection des chimères}
 ```{r}
 seqtabNoC <- removeBimeraDenovo(seqtabAll)
 ```
@@ -186,7 +175,7 @@ L'utilisation de wget permet de télécharger les données direstement à partir
 cd ~
 wget  https://zenodo.org/record/4587955/files/silva_nr99_v138.1_train_set.fa.gz
 ```
-#\textcolor{red}{Attribution taxonomique}
+
 ```{r} 
 fastaRef <-"/home/rstudio/silva_nr99_v138.1_train_set.fa.gz"
 taxTab<-assignTaxonomy(seqtabNoC, refFasta=fastaRef, multithread=TRUE)
@@ -238,6 +227,7 @@ ps
 
 #\textcolor{red}{Utilisation de phyloseq}
 
+#\textcolor{blue}{Chargement des données}
 Dans un premier temps, il faut charger les données.
 ```{r}
 ps_connect <-url("https://raw.githubusercontent.com/spholmes/F1000_workflow/master/data/ps.rds")
@@ -245,6 +235,7 @@ ps = readRDS(ps_connect)
 ps
 ```
 Après avoir importer les données, elles seront filtrées taxonomiquement.
+#\textcolor{blue}{Filtrage taxonomique}
 ```{r}
 rank_names(ps)
 ```
@@ -275,7 +266,7 @@ filterPhyla = c("Fusobacteria", "Deinococcus-Thermus")
 ps1 = subset_taxa(ps, !Phylum %in% filterPhyla)
 ps1
 ```
-
+#\textcolor{blue}{Filtration de la prévalence}
 ```{r}
 prevdf1 = subset(prevdf, Phylum %in% get_taxa_unique(ps1, "Phylum"))
 ggplot(prevdf1, aes(TotalAbundance, Prevalence / nsamples(ps),color=Phylum)) +
@@ -294,6 +285,7 @@ keepTaxa = rownames(prevdf1)[(prevdf1$Prevalence >= prevalenceThreshold)]
 ps2 = prune_taxa(keepTaxa, ps)
 ```
 
+#\textcolor{blue}{Taxons agglomérés}
 ```{r}
 length(get_taxa_unique(ps2, taxonomic.rank = "Genus"))
 ```
@@ -325,7 +317,7 @@ p4tree = plot_tree(ps4, method = "treeonly",
 grid.arrange(nrow = 1, p2tree, p3tree, p4tree)
 ```
 
-#Transformation de la valeur d’abondance
+#\textcolor{blue}{Transformation de la valeur d’abondance}
 ```{r}
 plot_abundance = function(physeq,title = "",
                           Facet = "Order", Color = "Phylum"){
@@ -353,12 +345,12 @@ plotAfter = plot_abundance(ps3ra,"")
 grid.arrange(nrow = 2,  plotBefore, plotAfter)
 ```
 
-#Sous-ensemble par taxonomie
+#\textcolor{blue}{Sous-ensemble par taxonomie}
 ```{r}
 psOrd = subset_taxa(ps3ra, Order == "Lactobacillales")
 plot_abundance(psOrd, Facet = "Genus", Color = NULL)
 ```
-
+Installation de packages necessaires pour les analyses complémentaires. 
 ```{r}
 .cran_packages <- c( "shiny","miniUI", "caret", "pls", "e1071", "ggplot2", "randomForest", "dplyr", "ggrepel", "nlme", "devtools",
                   "reshape2", "PMA", "structSSI", "ade4",
@@ -382,6 +374,7 @@ if(any(!.inst)){
 }
 ```
 
+#\textcolor{blue}{TPrétraitement}
 ```{r}
 qplot(sample_data(ps)$age, geom = "histogram",binwidth=20) + xlab("age")
 ```
@@ -410,7 +403,7 @@ qplot(rel_abund[, 12], geom = "histogram",binwidth=0.05) +
   xlab("Relative abundance")
 ```
 
-#Différentes projections d'ordination
+#\textcolor{red}{Différentes projections d'ordination}
 ```{r}
 outliers <- c("F5D165", "F6D165", "M3D175", "M4D175", "M5D175", "M6D175")
 ps <- prune_samples(!(sample_names(ps) %in% outliers), ps)
@@ -457,7 +450,10 @@ plot_ordination(pslog, out.wuf.log, color = "age_binned",
   labs(col = "Binned Age", shape = "Litter")
 ```
 
-APC sur les rangs
+#\textcolor{red}{Pourquoi les parcelles d’ordination sont-elles si loin d’être carrées ?}
+
+#\textcolor{blue}{APC sur les rangs}
+
 ```{r}
 abund <- otu_table(pslog)
 abund_ranks <- t(apply(abund, 1, rank))
@@ -524,7 +520,7 @@ ggplot() +
   theme(panel.border = element_rect(color = "#787878", fill = alpha("white", 0)))
 ```
 
-Correspondance canonique
+#\textcolor{blue}{Correspondance canonique}
 ```{r}
 ps_ccpna <- ordinate(pslog, "CCA", formula = pslog ~ age_binned + family_relationship)
 ```
@@ -556,22 +552,8 @@ ggplot() +
   coord_fixed(sqrt(ps_ccpna$CCA$eig[2] / ps_ccpna$CCA$eig[1])*0.45   ) +
   theme(panel.border = element_rect(color = "#787878", fill = alpha("white", 0)))
 ```
+Victoire CABANNE
 
-```{r}
-
-```
-
-```{r}
-
-```
-
-```{r}
-
-```
-
-```{r}
-
-```
 This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
 
 Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
