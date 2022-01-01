@@ -1,0 +1,1102 @@
+study_accession sample_accession        experiment_accession    run_accession   tax_id  scientific_name fastq_ftp       submitted_ftp   sra_ftp
+PRJEB6592       SAMEA2661455    ERX526363       ERR567374       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567374/ERR567374_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567374/ERR567374_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567374/kkennedy_illumina-bias_0_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567374/kkennedy_illumina-bias_0_R2.fastq.gz       
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567374
+PRJEB6592       SAMEA2661456    ERX526364       ERR567375       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567375/ERR567375_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567375/ERR567375_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567375/kkennedy_illumina-bias_1_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567375/kkennedy_illumina-bias_1_R2.fastq.gz       
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567375
+PRJEB6592       SAMEA2661457    ERX526365       ERR567376       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567376/ERR567376_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567376/ERR567376_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567376/kkennedy_illumina-bias_2_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567376/kkennedy_illumina-bias_2_R2.fastq.gz       
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567376
+PRJEB6592       SAMEA2661458    ERX526366       ERR567377       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567377/ERR567377_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567377/ERR567377_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567377/kkennedy_illumina-bias_3_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567377/kkennedy_illumina-bias_3_R2.fastq.gz       
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567377
+PRJEB6592       SAMEA2661459    ERX526367       ERR567378       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567378/ERR567378_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567378/ERR567378_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567378/kkennedy_illumina-bias_4_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567378/kkennedy_illumina-bias_4_R2.fastq.gz      
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567378
+PRJEB6592       SAMEA2661460    ERX526368       ERR567379       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567379/ERR567379_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567379/ERR567379_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567379/kkennedy_illumina-bias_5_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567379/kkennedy_illumina-bias_5_R2.fastq.gz      
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567379
+PRJEB6592       SAMEA2661461    ERX526369       ERR567380       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567380/ERR567380_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567380/ERR567380_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567380/kkennedy_illumina-bias_6_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567380/kkennedy_illumina-bias_6_R2.fastq.gz      
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567380
+PRJEB6592       SAMEA2661462    ERX526370       ERR567381       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567381/ERR567381_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567381/ERR567381_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567381/kkennedy_illumina-bias_7_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567381/kkennedy_illumina-bias_7_R2.fastq.gz       
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567381
+PRJEB6592       SAMEA2661463    ERX526371       ERR567382       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567382/ERR567382_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567382/ERR567382_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567382/kkennedy_illumina-bias_8_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567382/kkennedy_illumina-bias_8_R2.fastq.gz      
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567382
+PRJEB6592       SAMEA2661464    ERX526372       ERR567383       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567383/ERR567383_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567383/ERR567383_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567383/kkennedy_illumina-bias_9_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567383/kkennedy_illumina-bias_9_R2.fastq.gz      
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567383
+PRJEB6592       SAMEA2661465    ERX526373       ERR567384       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567384/ERR567384_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567384/ERR567384_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567384/kkennedy_illumina-bias_10_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567384/kkennedy_illumina-bias_10_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567384
+PRJEB6592       SAMEA2661466    ERX526374       ERR567385       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567385/ERR567385_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567385/ERR567385_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567385/kkennedy_illumina-bias_11_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567385/kkennedy_illumina-bias_11_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567385
+PRJEB6592       SAMEA2661467    ERX526375       ERR567386       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567386/ERR567386_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567386/ERR567386_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567386/kkennedy_illumina-bias_12_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567386/kkennedy_illumina-bias_12_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567386
+PRJEB6592       SAMEA2661468    ERX526376       ERR567387       410658  soil metagenome
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567387/ERR567387_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567387/ERR567387_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567387/kkennedy_illumina-bias_13_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567387/kkennedy_illumina-bias_13_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567387
+PRJEB6592       SAMEA2661469    ERX526377       ERR567388       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567388/ERR567388_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567388/ERR567388_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567388/kkennedy_illumina-bias_14_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567388/kkennedy_illumina-bias_14_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567388
+PRJEB6592       SAMEA2661470    ERX526378       ERR567389       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567389/ERR567389_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567389/ERR567389_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567389/kkennedy_illumina-bias_15_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567389/kkennedy_illumina-bias_15_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567389
+PRJEB6592       SAMEA2661471    ERX526379       ERR567390       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567390/ERR567390_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567390/ERR567390_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567390/kkennedy_illumina-bias_16_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567390/kkennedy_illumina-bias_16_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567390
+PRJEB6592       SAMEA2661472    ERX526380       ERR567391       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567391/ERR567391_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567391/ERR567391_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567391/kkennedy_illumina-bias_17_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567391/kkennedy_illumina-bias_17_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567391
+PRJEB6592       SAMEA2661473    ERX526381       ERR567392       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567392/ERR567392_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567392/ERR567392_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567392/kkennedy_illumina-bias_18_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567392/kkennedy_illumina-bias_18_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567392
+PRJEB6592       SAMEA2661474    ERX526382       ERR567393       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567393/ERR567393_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567393/ERR567393_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567393/kkennedy_illumina-bias_19_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567393/kkennedy_illumina-bias_19_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567393
+PRJEB6592       SAMEA2661475    ERX526383       ERR567394       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567394/ERR567394_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567394/ERR567394_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567394/kkennedy_illumina-bias_20_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567394/kkennedy_illumina-bias_20_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567394
+PRJEB6592       SAMEA2661476    ERX526384       ERR567395       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567395/ERR567395_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567395/ERR567395_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567395/kkennedy_illumina-bias_21_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567395/kkennedy_illumina-bias_21_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567395
+PRJEB6592       SAMEA2661477    ERX526385       ERR567396       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567396/ERR567396_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567396/ERR567396_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567396/kkennedy_illumina-bias_22_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567396/kkennedy_illumina-bias_22_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567396
+PRJEB6592       SAMEA2661478    ERX526386       ERR567397       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567397/ERR567397_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567397/ERR567397_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567397/kkennedy_illumina-bias_23_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567397/kkennedy_illumina-bias_23_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567397
+PRJEB6592       SAMEA2661479    ERX526387       ERR567398       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567398/ERR567398_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567398/ERR567398_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567398/kkennedy_illumina-bias_24_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567398/kkennedy_illumina-bias_24_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567398
+PRJEB6592       SAMEA2661480    ERX526388       ERR567399       410658  soil metagenome
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567399/ERR567399_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567399/ERR567399_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567399/kkennedy_illumina-bias_25_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567399/kkennedy_illumina-bias_25_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567399
+PRJEB6592       SAMEA2661481    ERX526389       ERR567400       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567400/ERR567400_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567400/ERR567400_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567400/kkennedy_illumina-bias_26_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567400/kkennedy_illumina-bias_26_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567400
+PRJEB6592       SAMEA2661482    ERX526390       ERR567401       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567401/ERR567401_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567401/ERR567401_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567401/kkennedy_illumina-bias_27_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567401/kkennedy_illumina-bias_27_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567401
+PRJEB6592       SAMEA2661483    ERX526391       ERR567402       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567402/ERR567402_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567402/ERR567402_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567402/kkennedy_illumina-bias_28_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567402/kkennedy_illumina-bias_28_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567402
+PRJEB6592       SAMEA2661484    ERX526392       ERR567403       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567403/ERR567403_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567403/ERR567403_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567403/kkennedy_illumina-bias_29_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567403/kkennedy_illumina-bias_29_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567403
+PRJEB6592       SAMEA2661485    ERX526393       ERR567404       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567404/ERR567404_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567404/ERR567404_2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567404/kkennedy_illumina-bias_30_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567404/kkennedy_illumina-bias_30_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567404
+PRJEB6592       SAMEA2661486    ERX526394       ERR567405       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567405/ERR567405_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567405/ERR567405_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567405/kkennedy_illumina-bias_31_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567405/kkennedy_illumina-bias_31_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567405
+PRJEB6592       SAMEA2661487    ERX526395       ERR567406       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567406/ERR567406_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567406/ERR567406_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567406/kkennedy_illumina-bias_32_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567406/kkennedy_illumina-bias_32_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567406
+PRJEB6592       SAMEA2661488    ERX526396       ERR567407       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567407/ERR567407_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567407/ERR567407_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567407/kkennedy_illumina-bias_33_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567407/kkennedy_illumina-bias_33_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567407
+PRJEB6592       SAMEA2661489    ERX526397       ERR567408       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567408/ERR567408_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567408/ERR567408_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567408/kkennedy_illumina-bias_34_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567408/kkennedy_illumina-bias_34_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567408
+PRJEB6592       SAMEA2661490    ERX526398       ERR567409       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567409/ERR567409_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567409/ERR567409_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567409/kkennedy_illumina-bias_35_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567409/kkennedy_illumina-bias_35_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567409
+PRJEB6592       SAMEA2661491    ERX526399       ERR567410       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567410/ERR567410_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567410/ERR567410_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567410/kkennedy_illumina-bias_36_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567410/kkennedy_illumina-bias_36_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567410
+PRJEB6592       SAMEA2661492    ERX526400       ERR567411       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567411/ERR567411_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567411/ERR567411_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567411/kkennedy_illumina-bias_37_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567411/kkennedy_illumina-bias_37_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567411
+PRJEB6592       SAMEA2661493    ERX526401       ERR567412       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567412/ERR567412_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567412/ERR567412_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567412/kkennedy_illumina-bias_38_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567412/kkennedy_illumina-bias_38_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567412
+PRJEB6592       SAMEA2661494    ERX526402       ERR567413       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567413/ERR567413_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567413/ERR567413_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567413/kkennedy_illumina-bias_39_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567413/kkennedy_illumina-bias_39_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567413
+PRJEB6592       SAMEA2661495    ERX526403       ERR567414       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567414/ERR567414_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567414/ERR567414_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567414/kkennedy_illumina-bias_40_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567414/kkennedy_illumina-bias_40_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567414
+PRJEB6592       SAMEA2661496    ERX526404       ERR567415       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567415/ERR567415_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567415/ERR567415_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567415/kkennedy_illumina-bias_41_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567415/kkennedy_illumina-bias_41_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567415
+PRJEB6592       SAMEA2661497    ERX526405       ERR567416       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567416/ERR567416_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567416/ERR567416_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567416/kkennedy_illumina-bias_42_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567416/kkennedy_illumina-bias_42_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567416
+PRJEB6592       SAMEA2661498    ERX526406       ERR567417       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567417/ERR567417_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567417/ERR567417_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567417/kkennedy_illumina-bias_43_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567417/kkennedy_illumina-bias_43_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567417
+PRJEB6592       SAMEA2661499    ERX526407       ERR567418       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567418/ERR567418_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567418/ERR567418_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567418/kkennedy_illumina-bias_44_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567418/kkennedy_illumina-bias_44_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567418
+PRJEB6592       SAMEA2661500    ERX526408       ERR567419       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567419/ERR567419_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567419/ERR567419_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567419/kkennedy_illumina-bias_45_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567419/kkennedy_illumina-bias_45_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567419
+PRJEB6592       SAMEA2661501    ERX526409       ERR567420       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567420/ERR567420_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567420/ERR567420_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567420/kkennedy_illumina-bias_46_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567420/kkennedy_illumina-bias_46_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567420
+PRJEB6592       SAMEA2661502    ERX526410       ERR567421       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567421/ERR567421_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567421/ERR567421_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567421/kkennedy_illumina-bias_47_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567421/kkennedy_illumina-bias_47_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567421
+PRJEB6592       SAMEA2661503    ERX526411       ERR567422       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567422/ERR567422_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567422/ERR567422_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567422/kkennedy_illumina-bias_48_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567422/kkennedy_illumina-bias_48_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567422
+PRJEB6592       SAMEA2661504    ERX526412       ERR567423       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567423/ERR567423_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567423/ERR567423_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567423/kkennedy_illumina-bias_49_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567423/kkennedy_illumina-bias_49_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567423
+PRJEB6592       SAMEA2661505    ERX526413       ERR567424       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567424/ERR567424_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567424/ERR567424_2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567424/kkennedy_illumina-bias_50_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567424/kkennedy_illumina-bias_50_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567424
+PRJEB6592       SAMEA2661506    ERX526414       ERR567425       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567425/ERR567425_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567425/ERR567425_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567425/kkennedy_illumina-bias_51_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567425/kkennedy_illumina-bias_51_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567425
+PRJEB6592       SAMEA2661507    ERX526415       ERR567426       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567426/ERR567426_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567426/ERR567426_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567426/kkennedy_illumina-bias_52_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567426/kkennedy_illumina-bias_52_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567426
+PRJEB6592       SAMEA2661508    ERX526416       ERR567427       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567427/ERR567427_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567427/ERR567427_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567427/kkennedy_illumina-bias_53_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567427/kkennedy_illumina-bias_53_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567427
+PRJEB6592       SAMEA2661509    ERX526417       ERR567428       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567428/ERR567428_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567428/ERR567428_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567428/kkennedy_illumina-bias_54_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567428/kkennedy_illumina-bias_54_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567428
+PRJEB6592       SAMEA2661510    ERX526418       ERR567429       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567429/ERR567429_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567429/ERR567429_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567429/kkennedy_illumina-bias_55_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567429/kkennedy_illumina-bias_55_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567429
+PRJEB6592       SAMEA2661511    ERX526419       ERR567430       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567430/ERR567430_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567430/ERR567430_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567430/kkennedy_illumina-bias_56_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567430/kkennedy_illumina-bias_56_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567430
+PRJEB6592       SAMEA2661512    ERX526420       ERR567431       410658  soil metagenome
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567431/ERR567431_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567431/ERR567431_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567431/kkennedy_illumina-bias_57_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567431/kkennedy_illumina-bias_57_R2.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567431
+PRJEB6592       SAMEA2661513    ERX526421       ERR567432       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567432/ERR567432_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567432/ERR567432_2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567432/kkennedy_illumina-bias_58_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567432/kkennedy_illumina-bias_58_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567432
+PRJEB6592       SAMEA2661514    ERX526422       ERR567433       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567433/ERR567433_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567433/ERR567433_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567433/kkennedy_illumina-bias_59_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567433/kkennedy_illumina-bias_59_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567433
+PRJEB6592       SAMEA2661515    ERX526423       ERR567434       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567434/ERR567434_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567434/ERR567434_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567434/kkennedy_illumina-bias_60_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567434/kkennedy_illumina-bias_60_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567434
+PRJEB6592       SAMEA2661516    ERX526424       ERR567435       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567435/ERR567435_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567435/ERR567435_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567435/kkennedy_illumina-bias_61_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567435/kkennedy_illumina-bias_61_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567435
+PRJEB6592       SAMEA2661517    ERX526425       ERR567436       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567436/ERR567436_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567436/ERR567436_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567436/kkennedy_illumina-bias_62_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567436/kkennedy_illumina-bias_62_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567436
+PRJEB6592       SAMEA2661518    ERX526426       ERR567437       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567437/ERR567437_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567437/ERR567437_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567437/kkennedy_illumina-bias_63_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567437/kkennedy_illumina-bias_63_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567437
+PRJEB6592       SAMEA2661519    ERX526427       ERR567438       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567438/ERR567438_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567438/ERR567438_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567438/kkennedy_illumina-bias_64_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567438/kkennedy_illumina-bias_64_R2.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567438
+PRJEB6592       SAMEA2661520    ERX526428       ERR567439       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567439/ERR567439_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567439/ERR567439_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567439/kkennedy_illumina-bias_65_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567439/kkennedy_illumina-bias_65_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567439
+PRJEB6592       SAMEA2661521    ERX526429       ERR567440       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567440/ERR567440_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567440/ERR567440_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567440/kkennedy_illumina-bias_66_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567440/kkennedy_illumina-bias_66_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567440
+PRJEB6592       SAMEA2661522    ERX526430       ERR567441       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567441/ERR567441_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567441/ERR567441_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567441/kkennedy_illumina-bias_67_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567441/kkennedy_illumina-bias_67_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567441
+PRJEB6592       SAMEA2661523    ERX526431       ERR567442       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567442/ERR567442_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567442/ERR567442_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567442/kkennedy_illumina-bias_68_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567442/kkennedy_illumina-bias_68_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567442
+PRJEB6592       SAMEA2661524    ERX526432       ERR567443       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567443/ERR567443_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567443/ERR567443_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567443/kkennedy_illumina-bias_69_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567443/kkennedy_illumina-bias_69_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567443
+PRJEB6592       SAMEA2661525    ERX526433       ERR567444       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567444/ERR567444_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567444/ERR567444_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567444/kkennedy_illumina-bias_70_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567444/kkennedy_illumina-bias_70_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567444
+PRJEB6592       SAMEA2661526    ERX526434       ERR567445       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567445/ERR567445_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567445/ERR567445_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567445/kkennedy_illumina-bias_71_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567445/kkennedy_illumina-bias_71_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567445
+PRJEB6592       SAMEA2661527    ERX526435       ERR567446       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567446/ERR567446_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567446/ERR567446_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567446/kkennedy_illumina-bias_72_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567446/kkennedy_illumina-bias_72_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567446
+PRJEB6592       SAMEA2661528    ERX526436       ERR567447       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567447/ERR567447_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567447/ERR567447_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567447/kkennedy_illumina-bias_73_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567447/kkennedy_illumina-bias_73_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567447
+PRJEB6592       SAMEA2661529    ERX526437       ERR567448       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567448/ERR567448_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567448/ERR567448_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567448/kkennedy_illumina-bias_74_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567448/kkennedy_illumina-bias_74_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567448
+PRJEB6592       SAMEA2661530    ERX526438       ERR567449       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567449/ERR567449_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567449/ERR567449_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567449/kkennedy_illumina-bias_75_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567449/kkennedy_illumina-bias_75_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567449
+PRJEB6592       SAMEA2661531    ERX526439       ERR567450       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567450/ERR567450_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567450/ERR567450_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567450/kkennedy_illumina-bias_76_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567450/kkennedy_illumina-bias_76_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567450
+PRJEB6592       SAMEA2661532    ERX526440       ERR567451       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567451/ERR567451_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567451/ERR567451_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567451/kkennedy_illumina-bias_77_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567451/kkennedy_illumina-bias_77_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567451
+PRJEB6592       SAMEA2661533    ERX526441       ERR567452       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567452/ERR567452_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567452/ERR567452_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567452/kkennedy_illumina-bias_78_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567452/kkennedy_illumina-bias_78_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567452
+PRJEB6592       SAMEA2661534    ERX526442       ERR567453       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567453/ERR567453_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567453/ERR567453_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567453/kkennedy_illumina-bias_79_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567453/kkennedy_illumina-bias_79_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567453
+PRJEB6592       SAMEA2661535    ERX526443       ERR567454       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567454/ERR567454_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567454/ERR567454_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567454/kkennedy_illumina-bias_80_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567454/kkennedy_illumina-bias_80_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567454
+PRJEB6592       SAMEA2661536    ERX526444       ERR567455       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567455/ERR567455_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567455/ERR567455_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567455/kkennedy_illumina-bias_81_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567455/kkennedy_illumina-bias_81_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567455
+PRJEB6592       SAMEA2661537    ERX526445       ERR567456       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567456/ERR567456_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567456/ERR567456_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567456/kkennedy_illumina-bias_82_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567456/kkennedy_illumina-bias_82_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567456
+PRJEB6592       SAMEA2661538    ERX526446       ERR567457       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567457/ERR567457_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567457/ERR567457_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567457/kkennedy_illumina-bias_83_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567457/kkennedy_illumina-bias_83_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567457
+PRJEB6592       SAMEA2661539    ERX526447       ERR567458       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567458/ERR567458_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567458/ERR567458_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567458/kkennedy_illumina-bias_84_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567458/kkennedy_illumina-bias_84_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567458
+PRJEB6592       SAMEA2661540    ERX526448       ERR567459       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567459/ERR567459_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567459/ERR567459_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567459/kkennedy_illumina-bias_85_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567459/kkennedy_illumina-bias_85_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567459
+PRJEB6592       SAMEA2661541    ERX526449       ERR567460       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567460/ERR567460_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567460/ERR567460_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567460/kkennedy_illumina-bias_86_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567460/kkennedy_illumina-bias_86_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567460
+PRJEB6592       SAMEA2661542    ERX526450       ERR567461       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567461/ERR567461_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567461/ERR567461_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567461/kkennedy_illumina-bias_87_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567461/kkennedy_illumina-bias_87_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567461
+PRJEB6592       SAMEA2661543    ERX526451       ERR567462       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567462/ERR567462_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567462/ERR567462_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567462/kkennedy_illumina-bias_88_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567462/kkennedy_illumina-bias_88_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567462
+PRJEB6592       SAMEA2661544    ERX526452       ERR567463       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567463/ERR567463_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567463/ERR567463_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567463/kkennedy_illumina-bias_89_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567463/kkennedy_illumina-bias_89_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567463
+PRJEB6592       SAMEA2661545    ERX526453       ERR567464       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567464/ERR567464_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567464/ERR567464_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567464/kkennedy_illumina-bias_90_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567464/kkennedy_illumina-bias_90_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567464
+PRJEB6592       SAMEA2661546    ERX526454       ERR567465       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567465/ERR567465_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567465/ERR567465_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567465/kkennedy_illumina-bias_91_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567465/kkennedy_illumina-bias_91_R2.fastq.gz    
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567465
+PRJEB6592       SAMEA2661547    ERX526455       ERR567466       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567466/ERR567466_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567466/ERR567466_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567466/kkennedy_illumina-bias_96_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567466/kkennedy_illumina-bias_96_R2.fastq.gz     
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567466
+PRJEB6592       SAMEA2661548    ERX526456       ERR567467       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567467/ERR567467_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567467/ERR567467_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567467/kkennedy_illumina-bias_97_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567467/kkennedy_illumina-bias_97_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567467
+PRJEB6592       SAMEA2661549    ERX526457       ERR567468       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567468/kkennedy_illumina-bias_98_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567468/kkennedy_illumina-bias_98_R2.fastq.gz
+PRJEB6592       SAMEA2661550    ERX526458       ERR567469       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567469/ERR567469_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567469/ERR567469_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567469/kkennedy_illumina-bias_99_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567469/kkennedy_illumina-bias_99_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567469
+PRJEB6592       SAMEA2661551    ERX526459       ERR567470       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567470/ERR567470_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567470/ERR567470_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567470/kkennedy_illumina-bias_100_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567470/kkennedy_illumina-bias_100_R2.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567470
+PRJEB6592       SAMEA2661552    ERX526460       ERR567471       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567471/ERR567471_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567471/ERR567471_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567471/kkennedy_illumina-bias_101_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567471/kkennedy_illumina-bias_101_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567471
+PRJEB6592       SAMEA2661553    ERX526461       ERR567472       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567472/ERR567472_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567472/ERR567472_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567472/kkennedy_illumina-bias_102_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567472/kkennedy_illumina-bias_102_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567472
+PRJEB6592       SAMEA2661554    ERX526462       ERR567473       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567473/ERR567473_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567473/ERR567473_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567473/kkennedy_illumina-bias_103_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567473/kkennedy_illumina-bias_103_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567473
+PRJEB6592       SAMEA2661555    ERX526463       ERR567474       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567474/ERR567474_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567474/ERR567474_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567474/kkennedy_illumina-bias_104_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567474/kkennedy_illumina-bias_104_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567474
+PRJEB6592       SAMEA2661556    ERX526464       ERR567475       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567475/ERR567475_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567475/ERR567475_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567475/kkennedy_illumina-bias_105_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567475/kkennedy_illumina-bias_105_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567475
+PRJEB6592       SAMEA2661557    ERX526465       ERR567476       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567476/ERR567476_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567476/ERR567476_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567476/kkennedy_illumina-bias_106_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567476/kkennedy_illumina-bias_106_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567476
+PRJEB6592       SAMEA2661558    ERX526466       ERR567477       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567477/ERR567477_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567477/ERR567477_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567477/kkennedy_illumina-bias_107_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567477/kkennedy_illumina-bias_107_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567477
+PRJEB6592       SAMEA2661559    ERX526467       ERR567478       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567478/ERR567478_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567478/ERR567478_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567478/kkennedy_illumina-bias_108_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567478/kkennedy_illumina-bias_108_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567478
+PRJEB6592       SAMEA2661560    ERX526468       ERR567479       410658  soil metagenome
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567479/ERR567479_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567479/ERR567479_2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567479/kkennedy_illumina-bias_109_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567479/kkennedy_illumina-bias_109_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567479
+PRJEB6592       SAMEA2661561    ERX526469       ERR567480       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567480/ERR567480_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567480/ERR567480_2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567480/kkennedy_illumina-bias_110_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567480/kkennedy_illumina-bias_110_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567480
+PRJEB6592       SAMEA2661562    ERX526470       ERR567481       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567481/ERR567481_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567481/ERR567481_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567481/kkennedy_illumina-bias_111_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567481/kkennedy_illumina-bias_111_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567481
+PRJEB6592       SAMEA2661563    ERX526471       ERR567482       410658  soil metagenome
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567482/ERR567482_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567482/ERR567482_2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567482/kkennedy_illumina-bias_112_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567482/kkennedy_illumina-bias_112_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567482
+PRJEB6592       SAMEA2661564    ERX526472       ERR567483       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567483/ERR567483_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567483/ERR567483_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567483/kkennedy_illumina-bias_113_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567483/kkennedy_illumina-bias_113_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567483
+PRJEB6592       SAMEA2661565    ERX526473       ERR567484       410658  soil metagenome
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567484/ERR567484_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567484/ERR567484_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567484/kkennedy_illumina-bias_114_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567484/kkennedy_illumina-bias_114_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567484
+PRJEB6592       SAMEA2661566    ERX526474       ERR567485       410658  soil metagenome
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567485/ERR567485_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567485/ERR567485_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567485/kkennedy_illumina-bias_115_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567485/kkennedy_illumina-bias_115_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567485
+PRJEB6592       SAMEA2661567    ERX526475       ERR567486       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567486/ERR567486_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567486/ERR567486_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567486/kkennedy_illumina-bias_116_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567486/kkennedy_illumina-bias_116_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567486
+PRJEB6592       SAMEA2661568    ERX526476       ERR567487       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567487/ERR567487_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567487/ERR567487_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567487/kkennedy_illumina-bias_117_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567487/kkennedy_illumina-bias_117_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567487
+PRJEB6592       SAMEA2661569    ERX526477       ERR567488       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567488/ERR567488_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567488/ERR567488_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567488/kkennedy_illumina-bias_118_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567488/kkennedy_illumina-bias_118_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567488
+PRJEB6592       SAMEA2661570    ERX526478       ERR567489       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567489/ERR567489_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567489/ERR567489_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567489/kkennedy_illumina-bias_119_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567489/kkennedy_illumina-bias_119_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567489
+PRJEB6592       SAMEA2661571    ERX526479       ERR567490       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567490/ERR567490_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567490/ERR567490_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567490/kkennedy_illumina-bias_120_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567490/kkennedy_illumina-bias_120_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567490
+PRJEB6592       SAMEA2661572    ERX526480       ERR567491       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567491/ERR567491_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567491/ERR567491_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567491/kkennedy_illumina-bias_121_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567491/kkennedy_illumina-bias_121_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567491
+PRJEB6592       SAMEA2661573    ERX526481       ERR567492       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567492/ERR567492_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567492/ERR567492_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567492/kkennedy_illumina-bias_122_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567492/kkennedy_illumina-bias_122_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567492
+PRJEB6592       SAMEA2661574    ERX526482       ERR567493       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567493/ERR567493_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567493/ERR567493_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567493/kkennedy_illumina-bias_123_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567493/kkennedy_illumina-bias_123_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567493
+PRJEB6592       SAMEA2661575    ERX526483       ERR567494       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567494/ERR567494_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567494/ERR567494_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567494/kkennedy_illumina-bias_124_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567494/kkennedy_illumina-bias_124_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567494
+PRJEB6592       SAMEA2661576    ERX526484       ERR567495       410658  soil metagenome
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567495/ERR567495_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567495/ERR567495_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567495/kkennedy_illumina-bias_125_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567495/kkennedy_illumina-bias_125_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567495
+PRJEB6592       SAMEA2661577    ERX526485       ERR567496       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567496/ERR567496_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567496/ERR567496_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567496/kkennedy_illumina-bias_126_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567496/kkennedy_illumina-bias_126_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567496
+PRJEB6592       SAMEA2661578    ERX526486       ERR567497       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567497/ERR567497_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567497/ERR567497_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567497/kkennedy_illumina-bias_127_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567497/kkennedy_illumina-bias_127_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567497
+PRJEB6592       SAMEA2661579    ERX526487       ERR567498       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567498/ERR567498_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567498/ERR567498_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567498/kkennedy_illumina-bias_128_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567498/kkennedy_illumina-bias_128_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567498
+PRJEB6592       SAMEA2661580    ERX526488       ERR567499       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567499/ERR567499_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567499/ERR567499_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567499/kkennedy_illumina-bias_129_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567499/kkennedy_illumina-bias_129_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567499
+PRJEB6592       SAMEA2661581    ERX526489       ERR567500       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567500/ERR567500_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567500/ERR567500_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567500/kkennedy_illumina-bias_130_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567500/kkennedy_illumina-bias_130_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567500
+PRJEB6592       SAMEA2661582    ERX526490       ERR567501       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567501/ERR567501_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567501/ERR567501_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567501/kkennedy_illumina-bias_131_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567501/kkennedy_illumina-bias_131_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567501
+PRJEB6592       SAMEA2661583    ERX526491       ERR567502       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567502/ERR567502_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567502/ERR567502_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567502/kkennedy_illumina-bias_132_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567502/kkennedy_illumina-bias_132_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567502
+PRJEB6592       SAMEA2661584    ERX526492       ERR567503       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567503/ERR567503_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567503/ERR567503_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567503/kkennedy_illumina-bias_133_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567503/kkennedy_illumina-bias_133_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567503
+PRJEB6592       SAMEA2661585    ERX526493       ERR567504       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567504/ERR567504_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567504/ERR567504_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567504/kkennedy_illumina-bias_134_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567504/kkennedy_illumina-bias_134_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567504
+PRJEB6592       SAMEA2661586    ERX526494       ERR567505       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567505/ERR567505_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567505/ERR567505_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567505/kkennedy_illumina-bias_135_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567505/kkennedy_illumina-bias_135_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567505
+PRJEB6592       SAMEA2661587    ERX526495       ERR567506       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567506/ERR567506_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567506/ERR567506_2.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567506/kkennedy_illumina-bias_136_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567506/kkennedy_illumina-bias_136_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567506
+PRJEB6592       SAMEA2661588    ERX526496       ERR567507       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567507/ERR567507_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567507/ERR567507_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567507/kkennedy_illumina-bias_137_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567507/kkennedy_illumina-bias_137_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567507
+PRJEB6592       SAMEA2661589    ERX526497       ERR567508       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567508/ERR567508_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567508/ERR567508_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567508/kkennedy_illumina-bias_138_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567508/kkennedy_illumina-bias_138_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567508
+PRJEB6592       SAMEA2661590    ERX526498       ERR567509       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567509/ERR567509_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567509/ERR567509_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567509/kkennedy_illumina-bias_139_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567509/kkennedy_illumina-bias_139_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567509
+PRJEB6592       SAMEA2661591    ERX526499       ERR567510       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567510/ERR567510_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567510/ERR567510_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567510/kkennedy_illumina-bias_140_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567510/kkennedy_illumina-bias_140_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567510
+PRJEB6592       SAMEA2661592    ERX526500       ERR567511       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567511/ERR567511_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567511/ERR567511_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567511/kkennedy_illumina-bias_141_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567511/kkennedy_illumina-bias_141_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567511
+PRJEB6592       SAMEA2661593    ERX526501       ERR567512       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567512/ERR567512_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567512/ERR567512_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567512/kkennedy_illumina-bias_142_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567512/kkennedy_illumina-bias_142_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567512
+PRJEB6592       SAMEA2661594    ERX526502       ERR567513       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567513/ERR567513_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567513/ERR567513_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567513/kkennedy_illumina-bias_143_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567513/kkennedy_illumina-bias_143_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567513
+PRJEB6592       SAMEA2661595    ERX526503       ERR567514       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567514/ERR567514_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567514/ERR567514_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567514/kkennedy_illumina-bias_144_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567514/kkennedy_illumina-bias_144_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567514
+PRJEB6592       SAMEA2661596    ERX526504       ERR567515       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567515/ERR567515_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567515/ERR567515_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567515/kkennedy_illumina-bias_145_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567515/kkennedy_illumina-bias_145_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567515
+PRJEB6592       SAMEA2661597    ERX526505       ERR567516       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567516/ERR567516_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567516/ERR567516_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567516/kkennedy_illumina-bias_146_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567516/kkennedy_illumina-bias_146_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567516
+PRJEB6592       SAMEA2661598    ERX526506       ERR567517       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567517/ERR567517_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567517/ERR567517_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567517/kkennedy_illumina-bias_147_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567517/kkennedy_illumina-bias_147_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567517
+PRJEB6592       SAMEA2661599    ERX526507       ERR567518       410658  soil metagenome
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567518/ERR567518_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567518/ERR567518_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567518/kkennedy_illumina-bias_148_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567518/kkennedy_illumina-bias_148_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567518
+PRJEB6592       SAMEA2661600    ERX526508       ERR567519       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567519/ERR567519_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567519/ERR567519_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567519/kkennedy_illumina-bias_149_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567519/kkennedy_illumina-bias_149_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567519
+PRJEB6592       SAMEA2661601    ERX526509       ERR567520       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567520/ERR567520_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567520/ERR567520_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567520/kkennedy_illumina-bias_150_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567520/kkennedy_illumina-bias_150_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567520
+PRJEB6592       SAMEA2661602    ERX526510       ERR567521       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567521/ERR567521_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567521/ERR567521_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567521/kkennedy_illumina-bias_151_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567521/kkennedy_illumina-bias_151_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567521
+PRJEB6592       SAMEA2661603    ERX526511       ERR567522       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567522/ERR567522_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567522/ERR567522_2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567522/kkennedy_illumina-bias_152_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567522/kkennedy_illumina-bias_152_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567522
+PRJEB6592       SAMEA2661604    ERX526512       ERR567523       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567523/ERR567523_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567523/ERR567523_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567523/kkennedy_illumina-bias_153_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567523/kkennedy_illumina-bias_153_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567523
+PRJEB6592       SAMEA2661605    ERX526513       ERR567524       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567524/ERR567524_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567524/ERR567524_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567524/kkennedy_illumina-bias_154_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567524/kkennedy_illumina-bias_154_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567524
+PRJEB6592       SAMEA2661606    ERX526514       ERR567525       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567525/ERR567525_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567525/ERR567525_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567525/kkennedy_illumina-bias_155_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567525/kkennedy_illumina-bias_155_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567525
+PRJEB6592       SAMEA2661607    ERX526515       ERR567526       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567526/ERR567526_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567526/ERR567526_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567526/kkennedy_illumina-bias_156_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567526/kkennedy_illumina-bias_156_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567526
+PRJEB6592       SAMEA2661608    ERX526516       ERR567527       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567527/ERR567527_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567527/ERR567527_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567527/kkennedy_illumina-bias_157_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567527/kkennedy_illumina-bias_157_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567527
+PRJEB6592       SAMEA2661609    ERX526517       ERR567528       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567528/ERR567528_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567528/ERR567528_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567528/kkennedy_illumina-bias_158_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567528/kkennedy_illumina-bias_158_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567528
+PRJEB6592       SAMEA2661610    ERX526518       ERR567529       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567529/ERR567529_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567529/ERR567529_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567529/kkennedy_illumina-bias_159_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567529/kkennedy_illumina-bias_159_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567529
+PRJEB6592       SAMEA2661611    ERX526519       ERR567530       410658  soil metagenome
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567530/ERR567530_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567530/ERR567530_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567530/kkennedy_illumina-bias_160_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567530/kkennedy_illumina-bias_160_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567530
+PRJEB6592       SAMEA2661612    ERX526520       ERR567531       410658  soil metagenome
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567531/ERR567531_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567531/ERR567531_2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567531/kkennedy_illumina-bias_161_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567531/kkennedy_illumina-bias_161_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567531
+PRJEB6592       SAMEA2661613    ERX526521       ERR567532       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567532/ERR567532_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567532/ERR567532_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567532/kkennedy_illumina-bias_162_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567532/kkennedy_illumina-bias_162_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567532
+PRJEB6592       SAMEA2661614    ERX526522       ERR567533       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567533/ERR567533_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567533/ERR567533_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567533/kkennedy_illumina-bias_163_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567533/kkennedy_illumina-bias_163_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567533
+PRJEB6592       SAMEA2661615    ERX526523       ERR567534       410658  soil metagenome
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567534/ERR567534_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567534/ERR567534_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567534/kkennedy_illumina-bias_164_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567534/kkennedy_illumina-bias_164_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567534
+PRJEB6592       SAMEA2661616    ERX526524       ERR567535       410658  soil metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567535/ERR567535_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567535/ERR567535_2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567535/kkennedy_illumina-bias_165_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567535/kkennedy_illumina-bias_165_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567535
+PRJEB6592       SAMEA2661617    ERX526525       ERR567536       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567536/ERR567536_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567536/ERR567536_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567536/kkennedy_illumina-bias_166_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567536/kkennedy_illumina-bias_166_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567536
+PRJEB6592       SAMEA2661618    ERX526526       ERR567537       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567537/ERR567537_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567537/ERR567537_2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567537/kkennedy_illumina-bias_167_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567537/kkennedy_illumina-bias_167_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567537
+PRJEB6592       SAMEA2661619    ERX526527       ERR567538       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567538/ERR567538_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567538/ERR567538_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567538/kkennedy_illumina-bias_168_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567538/kkennedy_illumina-bias_168_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567538
+PRJEB6592       SAMEA2661620    ERX526528       ERR567539       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567539/ERR567539_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567539/ERR567539_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567539/kkennedy_illumina-bias_169_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567539/kkennedy_illumina-bias_169_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567539
+PRJEB6592       SAMEA2661621    ERX526529       ERR567540       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567540/ERR567540_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567540/ERR567540_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567540/kkennedy_illumina-bias_170_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567540/kkennedy_illumina-bias_170_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567540
+PRJEB6592       SAMEA2661622    ERX526530       ERR567541       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567541/ERR567541_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567541/ERR567541_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567541/kkennedy_illumina-bias_171_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567541/kkennedy_illumina-bias_171_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567541
+PRJEB6592       SAMEA2661623    ERX526531       ERR567542       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567542/ERR567542_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567542/ERR567542_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567542/kkennedy_illumina-bias_172_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567542/kkennedy_illumina-bias_172_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567542
+PRJEB6592       SAMEA2661624    ERX526532       ERR567543       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567543/ERR567543_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567543/ERR567543_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567543/kkennedy_illumina-bias_173_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567543/kkennedy_illumina-bias_173_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567543
+PRJEB6592       SAMEA2661625    ERX526533       ERR567544       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567544/ERR567544_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567544/ERR567544_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567544/kkennedy_illumina-bias_174_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567544/kkennedy_illumina-bias_174_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567544
+PRJEB6592       SAMEA2661626    ERX526534       ERR567545       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567545/ERR567545_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567545/ERR567545_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567545/kkennedy_illumina-bias_175_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567545/kkennedy_illumina-bias_175_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567545
+PRJEB6592       SAMEA2661627    ERX526535       ERR567546       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567546/ERR567546_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567546/ERR567546_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567546/kkennedy_illumina-bias_176_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567546/kkennedy_illumina-bias_176_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567546
+PRJEB6592       SAMEA2661628    ERX526536       ERR567547       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567547/ERR567547_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567547/ERR567547_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567547/kkennedy_illumina-bias_177_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567547/kkennedy_illumina-bias_177_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567547
+PRJEB6592       SAMEA2661629    ERX526537       ERR567548       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567548/ERR567548_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567548/ERR567548_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567548/kkennedy_illumina-bias_178_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567548/kkennedy_illumina-bias_178_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567548
+PRJEB6592       SAMEA2661630    ERX526538       ERR567549       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567549/ERR567549_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567549/ERR567549_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567549/kkennedy_illumina-bias_179_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567549/kkennedy_illumina-bias_179_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567549
+PRJEB6592       SAMEA2661631    ERX526539       ERR567550       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567550/ERR567550_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567550/ERR567550_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567550/kkennedy_illumina-bias_180_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567550/kkennedy_illumina-bias_180_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567550
+PRJEB6592       SAMEA2661632    ERX526540       ERR567551       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567551/ERR567551_1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567551/ERR567551_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567551/kkennedy_illumina-bias_181_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567551/kkennedy_illumina-bias_181_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567551
+PRJEB6592       SAMEA2661633    ERX526541       ERR567552       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567552/ERR567552_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567552/ERR567552_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567552/kkennedy_illumina-bias_182_R1.fastq.gz
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567552/kkennedy_illumina-bias_182_R2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567552
+PRJEB6592       SAMEA2661634    ERX526542       ERR567553       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567553/ERR567553_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567553/ERR567553_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567553/kkennedy_illumina-bias_183_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567553/kkennedy_illumina-bias_183_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567553
+PRJEB6592       SAMEA2661635    ERX526543       ERR567554       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567554/ERR567554_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567554/ERR567554_2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567554/kkennedy_illumina-bias_184_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567554/kkennedy_illumina-bias_184_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567554
+PRJEB6592       SAMEA2661636    ERX526544       ERR567555       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567555/ERR567555_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567555/ERR567555_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567555/kkennedy_illumina-bias_185_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567555/kkennedy_illumina-bias_185_R2.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567555
+PRJEB6592       SAMEA2661637    ERX526545       ERR567556       749906  gut metagenome 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567556/ERR567556_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567556/ERR567556_2.fastq.gz   
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567556/kkennedy_illumina-bias_186_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567556/kkennedy_illumina-bias_186_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567556
+PRJEB6592       SAMEA2661638    ERX526546       ERR567557       749906  gut metagenome  
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567557/ERR567557_1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR567/ERR567557/ERR567557_2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567557/kkennedy_illumina-bias_187_R1.fastq.gz 
+ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR567/ERR567557/kkennedy_illumina-bias_187_R2.fastq.gz  
+ftp://ftp.sra.ebi.ac.uk/vol1/err/ERR567/ERR567557
